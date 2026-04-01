@@ -4,7 +4,7 @@
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
 		$email_to = "hey@sarozpoddar.com.np";
-		$email_subject = "My offer for [Your Domain]";
+		$email_subject = "My offer for [Oliadecor]";
 
 
 		$name = $_POST['name']; // required

@@ -58,11 +58,11 @@
 										<div class="row d-md-flex text-center justify-content-center text-primary action-icons">
 											<div class="col-sm-4">
 												<p><em class="ion-ios-telephone-outline icon-md"></em></p>
-												<p class="lead"><a href="tel:+[Your Phone]">+[Your Phone]</a></p>
+												<p class="lead"><a href="tel:+[0923222227590]">+[Your Phone]</a></p>
 											</div>
 											<div class="col-sm-4">
 												<p><em class="ion-ios-chatbubble-outline icon-md"></em></p>
-												<p class="lead"><a href="mailto:hello@example.com">email@[Your Domain].com</a></p>
+												<p class="lead"><a href="mailto:hello@example.com">email@[tiktiki.info@gmail].com</a></p>
 											</div>
 									</div>
 								</div>
